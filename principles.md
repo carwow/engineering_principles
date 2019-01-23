@@ -2,7 +2,7 @@
 
 1. Investigate, Implement ,Iterate
 * We always question and challenge the value of work instead of following blindly; and then we commit to delivering early and often.
-2. Goldilocks Engineering
+2. Simple and Clear Engineering
 3. Outside in ownership
 * We value shipping early and observing in production; we are fearless. We believe a developer is responsible for owning their work all the way through to live, including monitoring and performance. 
 4. Sustainable pace
