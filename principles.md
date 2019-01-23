@@ -5,6 +5,8 @@
    * We always question and challenge the value of work instead of following blindly; and then we commit to delivering early and often.
 
 2. __Simple and Clear Engineering.__
+   
+   * We value simple and clear solutions that solve problems without unnecessary complexity. At the same time we keep the long term vision in mind and don’t just build for today. 
 
 3. __Outside in ownership.__
 
