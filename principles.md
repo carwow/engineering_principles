@@ -7,7 +7,7 @@
 
 2. __Simple and clear Engineering__
   
-  * We value simple and clear solutions that solve problems without unnecessary complexity. At the same time we keep the long term vision in mind and don’t just build for today. 
+    * We value simple and clear solutions that solve problems without unnecessary complexity. At the same time we keep the long term vision in mind and don’t just build for today. 
 
 3. __Outside in ownership__
   
@@ -31,9 +31,9 @@
 7. __Evolutionary Architecture__
   
     * We evolve our architecture and technology constantly as our business evolves. We experiment with new technologies at the edges of our systems and adopt carefully and for real business value.
-  * Example: elm 
-  * Example: single page css
-  * Example: some architecture decisions 
+    * Example: elm 
+    * Example: single page css
+    * Example: some architecture decisions 
 
 8. __Do *big* things in small steps__
   
@@ -49,6 +49,8 @@
     * We practice shared code and project ownership. Any team member should be able to work on any project interchangeably and we aim to rotate teams to ensure people have exposure to all parts of the codebase.
 
 11. __We strive to be informed by data as much as possible__
+    
+    * Whenever taking a decision try to gather some quantitative data. If quant is not available use qualitative data. If you fail at those two, only then use your guts and experience.
 
 12. __Healthy conflict__
   
@@ -57,3 +59,4 @@
 13. __Build what matters__ 
   
     * Engineering effort is a scarce commodity. It should only be applied to problems that “move the needle” for the company
+    
