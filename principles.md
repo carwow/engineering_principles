@@ -2,19 +2,20 @@
 
 __History__
 
-The initial principles have been written down for the first time in January 2019. All the members of the engineering team that have been at carwow for more than 2 years were allowed to contribute. 
+We made our first attempt at formalising and defining the carwow engineering principles in Januart 2019. To compile the first draft, we asked all engineers that had been at carwow for at least 2 years to try and capture the engineering culture that had contributed to our success. 
 
 __Contributing__
 
-To be through to our values of self-improvement, principles should and will evolve over time. We've decided to write them down so that the process of changing them is tracked, and clear to everybody.
-If you wish to add something to the principles, or modify some of the existing principles please open a pull request.
-I'd like to see at least 10 people agreeing to a change before merging into master.
+To be true to our values of self-improvement our principles should and will evolve over time. We've decided to write them down so that the process of changing them is tracked, and clear to everybody.
+If you wish to add something to the principles, or modify some of the existing principles please **open a pull request.**
+We'd like to see at least 10 people agreeing to a change before merging into master, so please contribute to PR discussions. 
+
 David Santoro (Co-Founder/CTO) will be the one merging any changes, for now.
 
 __How to use the principles__
 
 In engineering there are many correct ways of doing things, to avoid unnecessary debates when possible we'd like to pick solutions that conforms to this principles. You can use this principles as guidance, or you can refer to them when giving feedback on someone else behaviour or work.
-They should also be used when interviewing, and shown to potential candidates so they can figure out if carwow is the right place for them
+They will also be used when interviewing, and shown to potential candidates so they can figure out if carwow is the right place for them
 
 # The carwow Engineering Principles
 
@@ -91,6 +92,3 @@ They should also be used when interviewing, and shown to potential candidates so
 1. __Healthy conflict__
   
     * We believe in a blameless culture; which includes holding each other accountable through respectful feedback
-
-
-    
