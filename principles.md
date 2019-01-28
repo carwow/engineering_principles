@@ -2,7 +2,7 @@
 
 __History__
 
-We made our first attempt at formalising and defining the carwow engineering principles in Januart 2019. To compile the first draft, we asked all engineers that had been at carwow for at least 2 years to try and capture the engineering culture that had contributed to our success. 
+We made our first attempt at formalising and defining the carwow engineering principles in January 2019. To compile the first draft, we asked all engineers that had been at carwow for at least 2 years to try and capture the engineering culture that had contributed to our success. 
 
 __Contributing__
 
