@@ -41,7 +41,7 @@ __Strive for fast feedback loops__
   * We use several practices to achieve the above like TDD, code reviews, continuous delivery, vertical slicing, AB tests, and customer feedback.
     
     
-__Investigate, Implement ,Iterate__
+__Investigate, Implement, Iterate__
   
   * We always question and challenge the value of work instead of following blindly; and then we commit to delivering early and often.
     
