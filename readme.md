@@ -29,7 +29,7 @@ __Build what matters__
     
 __Do *big* things in small steps__
   
-  * Breaking down big features in small steps doesn’t mean we work only on small incremental improvement. A longer term vision or objective is our north star.
+  * Breaking down big features in small steps doesn’t mean we work only on small incremental improvement. A longer term vision or objective help us achieve great things without sacrificing short term value.
     
     
 __Strive for fast feedback loops__
@@ -53,7 +53,7 @@ __Outside in ownership__
 
 __Sustainable pace__
   
-  * Panic and rushing leads to bad decisions, we believe in aggressive scoping appropriately and focussing on value. It leads to better results; with a happier and healthier team. 
+  * Panic and rushing leads to bad decisions, we believe in aggressive scoping and focussing on value. It leads to better results; with a happier and healthier team. 
     
     
 __We strive to be informed by data as much as possible__
