@@ -17,6 +17,10 @@ __How to use the principles__
 In engineering there are many correct ways of doing things, to avoid unnecessary debates when possible we'd like to pick solutions that conforms to this principles. You can use this principles as guidance, or you can refer to them when giving feedback on someone else behaviour or work.
 They will also be used when interviewing, and shown to potential candidates so they can figure out if carwow is the right place for them
 
+__WIP__
+
+This page is in constant WIP, please refer to it regularly.
+
 # The carwow Engineering Principles
 
 
