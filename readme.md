@@ -34,6 +34,7 @@ __Build what matters__
 __Do *big* things in small steps__
   
   * Breaking down big features in small steps doesn’t mean we work only on small incremental improvement. A longer term vision or objective help us achieve great things without sacrificing short term value.
+  * Make use of feature flags to allow you release early and often to test assumptions, especially in production.
     
     
 __Strive for fast feedback loops__
