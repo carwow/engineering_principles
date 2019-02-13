@@ -34,7 +34,7 @@ __Build what matters__
 __Do *big* things in small steps__
 
   * Breaking down big features in small steps doesn’t mean we work only on small incremental improvement. A longer term vision or objective help us achieve great things without sacrificing short term value.
-  * Feature-specific toggles are a good way to release early and often. By coupling each well-defined feature with its own toggle, we can better control when and where to activate it.
+  * Example: Feature-specific toggles are a good way to release early and often. By coupling each well-defined feature with its own toggle, we can better control when and where to activate it. We currently use [LaunchDarkly](https://launchdarkly.com) to manage feature flags.
 
 
 __Strive for fast feedback loops__
