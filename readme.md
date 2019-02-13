@@ -53,7 +53,8 @@ __We strive for Simple and clear Engineering__
 
 __We employ Outside-In ownership__
   
-  * We value shipping early and observing in production; we are fearless. We believe a developer is responsible for owning their work all the way through to delivering value, including monitoring and performance. 
+  * We value shipping early and observing in production.
+  * We are Fearless; We believe a developer is responsible for owning their work all the way through to delivering value, including monitoring and performance. 
 
 __We work at a Sustainable pace__
   
@@ -65,7 +66,7 @@ __We strive to be informed by data as much as possible__
   * Whenever taking a decision try to gather some quantitative data. If quant is not available use qualitative data. If you fail at those two, only then use your guts and experience.
     
 
-__We are deeply Collaborative!__
+__We are Deeply Collaborative!__
 
   * Product development is a team effort, we give each other feedback early and often, always respectfully
   * Example: If you touch a new area of the codebase, ask for help 
@@ -91,7 +92,7 @@ __We try to Reduce code and people dependencies__
   * We practice shared code and project ownership. Any team member should be able to work on any project interchangeably and we aim to rotate teams to ensure people have exposure to all parts of the codebase.
 
 
-__We believe in Healthy conflict__
+__We encourage Healthy conflicts__
   
   * We believe in a blameless culture; which includes holding each other accountable through respectful feedback
   * We strongly believe in the principle of "Disagree and Commit". We are tenacious and make strong but respectful arguments. However, once a decision is determined, we commit to it completely in belief and execution
