@@ -3,6 +3,9 @@
 __History__
 
 We made our first attempt at formalising and defining the carwow engineering principles in January 2019. To compile the first draft, we asked all engineers that had been at carwow for at least 2 years to try and capture the engineering culture that had contributed to our success.
+In October 2019 the wider product team have been thinking about shared
+principles too, so we aligned the engineering principles to the wider
+product team ones.
 
 __Contributing__
 
@@ -23,28 +26,30 @@ This page is in constant WIP, please refer to it regularly.
 
 # The carwow Engineering Principles
 
-
-__Build what matters__
-
-  * Engineering effort is a scarce commodity. It should only be applied to problems that “move the needle” for the company
-  * The biggest achievement of an Engineer at carwow is to provide positive business impact with no line of code written (maybe even removing some)
-  * We don't manage our own server, or have a self hosted continuous integration software.
-
-
-__Do *big* things in small steps__
+__Think *big* and take small steps to learn fast__
 
   * Breaking down big features in small steps doesn’t mean we work only on small incremental improvement. A longer term vision or objective help us achieve great things without sacrificing short term value.
+  * We also use several practices that give us fast feedback loop like:
+    TDD, pairing, code reviews, continuous delivery, vertical slicing,
+AB tests, customer feedback, etc.
   * Example: Feature-specific toggles are a good way to release early and often. By coupling each well-defined feature with its own toggle, we can better control when and where to activate it. We currently use [LaunchDarkly](https://launchdarkly.com) to manage feature flags.
 
 
-__Strive for fast feedback loops__
+__Be ruthlessly focused__
 
-  * We use several practices to achieve the above like TDD, code reviews, continuous delivery, vertical slicing, AB tests, and customer feedback.
-
-
-__Investigate, Implement, Iterate__
-
+  * Engineering effort is a scarce commodity. It should only be applied to problems that “move the needle” for the company
+  * The biggest achievement of an Engineer at carwow is to provide positive business impact with no line of code written (maybe even removing some)
   * We always question and challenge the value of work instead of following blindly; and then we commit to delivering early and often.
+  * We don't manage our own server, or have a self hosted continuous integration software.
+
+
+__Follow a scientific but pragmatic process__
+
+  * We start with a well defined hypothesis, we outline our assumptions,
+    we define our success metrics and use quant data when possible. If
+quant is not available we use qualitative data and intuition
+  * We are comfortable taking decisions with incomplete or imperfect
+    information
 
 
 __Simple and clear Engineering__
@@ -56,14 +61,10 @@ __Outside in ownership__
 
   * We value shipping early and observing in production; we are fearless. We believe a developer is responsible for owning their work all the way through to delivering value, including monitoring and performance.
 
+
 __Sustainable pace__
 
   * Panic and rushing leads to bad decisions, we believe in aggressive scoping and focussing on value. It leads to better results; with a happier and healthier team.
-
-
-__We strive to be informed by data as much as possible__
-
-  * Whenever taking a decision try to gather some quantitative data. If quant is not available use qualitative data. If you fail at those two, only then use your guts and experience.
 
 
 __Collaborate!__
