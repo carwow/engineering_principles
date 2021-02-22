@@ -3,96 +3,49 @@
 __History__
 
 We made our first attempt at formalising and defining the carwow engineering principles in January 2019. To compile the first draft, we asked all engineers that had been at carwow for at least 2 years to try and capture the engineering culture that had contributed to our success.
+A year later we worked together with the other functions in the product department and defined principles that we can all follow.
 
-__Contributing__
-
-To be true to our values of self-improvement our principles should and will evolve over time. We've decided to write them down so that the process of changing them is tracked, and clear to everybody.
-If you wish to add something to the principles, or modify some of the existing principles please **open a pull request.**
-We'd like to see at least 10 people agreeing to a change before merging into master, so please contribute to PR discussions.
-
-David Santoro (Co-Founder/CTO) will be the one merging any changes, for now.
+__What is the purpose of principles__
+Principles are a mantra, a philosophy and a guiding path. They help us validate our work separating the truth from fact over emotional feeling. Giving us direction in a time of doubt.
 
 __How to use the principles__
 
 In engineering there are many correct ways of doing things, to avoid unnecessary debates when possible we'd like to pick solutions that conforms to this principles. You can use this principles as guidance, or you can refer to them when giving feedback on someone else behaviour or work.
 They will also be used when interviewing, and shown to potential candidates so they can figure out if carwow is the right place for them
 
-__WIP__
-
-This page is in constant WIP, please refer to it regularly.
-
 # The carwow Engineering Principles
 
 
-__Build what matters__
+__We start with a clearly defined problem__
+We always start by collecting evidence to understand the problem we’re trying to solve. This enables us to define outcomes and behaviours to change.
+We only work on problems that positively benefit both the consumer and the business and never at the expense of each other.
 
-  * Engineering effort is a scarce commodity. It should only be applied to problems that “move the needle” for the company
-  * The biggest achievement of an Engineer at carwow is to provide positive business impact with no line of code written (maybe even removing some)
-  * We don't manage our own server, or have a self hosted continuous integration software.
+Examples: TODO
 
+__Think big & take small steps to learn fast__
+To solve a big problem we define a bold, long term view on what we want to create. Then we test towards it - starting with the riskiest assumptions - so we can learn fast at low cost.
 
-__Do *big* things in small steps__
+Examples:
+* We once tried to reduce the multi-step signup flow into 1 step, figuring the drop-off would be lower than spread out across pages. The complexity of the vision meant it took several weeks to build. The test was only live for 6 hours before it was pulled after signups crashed. If we’d extracted the simplest way to test the concept - perhaps just combining 2 form fields to one page - we could have learned about the user response in a fraction of the time.
 
-  * Breaking down big features in small steps doesn’t mean we work only on small incremental improvement. A longer term vision or objective help us achieve great things without sacrificing short term value.
-  * Example: Feature-specific toggles are a good way to release early and often. By coupling each well-defined feature with its own toggle, we can better control when and where to activate it. We currently use [LaunchDarkly](https://launchdarkly.com) to manage feature flags.
+__Be scientific, but pragmatic__
+Experiments give us an opportunity to test our hypotheses and learn. We take a pragmatic approach to how we test, accepting we often need to make decisions with imperfect information. 
 
+Examples: TODO
 
-__Strive for fast feedback loops__
+__Be ruthlessly focused__
+We move towards our vision by focusing on impactful work aligned to our product strategy. We use qualitative and quantitative data to help assess value and we explain why when we say no to work that will take us from our path.
 
-  * We use several practices to achieve the above like TDD, code reviews, continuous delivery, vertical slicing, AB tests, and customer feedback.
+Examples: TODO
 
+__Think about the wider implications__
+We’re mindful of the impact our actions and choices have on the carwow ecosystem. We think about the customer experience, our markets, our technology and the people we work with. 
 
-__Investigate, Implement, Iterate__
+__We shape the solution__
+TODO
 
-  * We always question and challenge the value of work instead of following blindly; and then we commit to delivering early and often.
+__We keep it simple__
+TODO
 
-
-__Simple and clear Engineering__
-
-  * We value simple and clear solutions that solve problems without unnecessary complexity. At the same time we keep the long term vision in mind and don’t just build for today.
-
-
-__Outside in ownership__
-
-  * We value shipping early and observing in production; we are fearless. We believe a developer is responsible for owning their work all the way through to delivering value, including monitoring and performance.
-
-__Sustainable pace__
-
-  * Panic and rushing leads to bad decisions, we believe in aggressive scoping and focussing on value. It leads to better results; with a happier and healthier team.
-
-
-__We strive to be informed by data as much as possible__
-
-  * Whenever taking a decision try to gather some quantitative data. If quant is not available use qualitative data. If you fail at those two, only then use your guts and experience.
-
-
-__Collaborate!__
-
-  * Product development is a team effort, we give each other feedback early and often, always respectfully
-  * Example: If you touch a new area of the codebase, ask for help
-  * Example: When a feature is too complicated, pair
-  * Example: Don’t get stuck for too long, ask for help.
-
-
-__Evolutionary Architecture__
-
-  * We evolve our architecture and technology constantly as our business evolves. We experiment with new technologies at the edges of our systems and adopt carefully and for real business value.
-  * Example: elm
-  * Example: single page css
-  * Example: some architecture decisions
-
-
-__Continuous Improvement__
-
-  * We leave code better than we found it. We refactor before developing a feature, to ease its development.
-
-
-__Reduce code and people dependencies__
-
-  * We practice shared code and project ownership. Any team member should be able to work on any project interchangeably and we aim to rotate teams to ensure people have exposure to all parts of the codebase.
-
-
-
-__Healthy conflict__
-
-  * We believe in a blameless culture; which includes holding each other accountable through respectful feedback
+__We embrace change__
+We cannot predict the future, we can only predict that things will change. Because of this we follow practices like Evolutionary architecture, TDD, simple design, and Refactoring so that we can cope better with future changes.
