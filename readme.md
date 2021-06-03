@@ -21,8 +21,6 @@ __We start with a clearly defined problem__
 We always start by collecting evidence to understand the problem we’re trying to solve. This enables us to define outcomes and behaviours to change.
 We only work on problems that positively benefit both the consumer and the business and never at the expense of each other.
 
-Examples: TODO
-
 __Think big & take small steps to learn fast__
 
 To solve a big problem we define a bold, long term view on what we want to create. Then we test towards it - starting with the riskiest assumptions - so we can learn fast at low cost.
@@ -34,13 +32,10 @@ __Be scientific, but pragmatic__
 
 Experiments give us an opportunity to test our hypotheses and learn. We take a pragmatic approach to how we test, accepting we often need to make decisions with imperfect information. 
 
-Examples: TODO
 
 __Be ruthlessly focused__
 
 We move towards our vision by focusing on impactful work aligned to our product strategy. We use qualitative and quantitative data to help assess value and we explain why when we say no to work that will take us from our path.
-
-Examples: TODO
 
 __Think about the wider implications__
 
@@ -48,11 +43,11 @@ We’re mindful of the impact our actions and choices have on the carwow ecosyst
 
 __We shape the solution__
 
-TODO
+We don't wait for someone to hand us down a specification. We collaborate with other team members and other areas of the business to create the best possible solution.
 
 __We keep it simple__
 
-TODO
+We value simplicity in communication, architecture, technical solutions, etc. We put extra effort to make sure our solutions aren't unnecessarily complex. We prefer removing code rather than adding more code. We make use of opensource library or third party software as a service to achive this.
 
 __We embrace change__
 
