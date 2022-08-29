@@ -47,7 +47,7 @@ We don't wait for someone to hand us down a specification. We collaborate with o
 
 __We keep it simple__
 
-We value simplicity in communication, architecture, technical solutions, etc. We put extra effort to make sure our solutions aren't unnecessarily complex. We prefer removing code rather than adding more code. We make use of opensource library or third party software as a service to achive this.
+We value simplicity in communication, architecture, technical solutions, etc. We put extra effort to make sure our solutions aren't unnecessarily complex. We prefer removing code rather than adding more code. We make use of open-source library or third party software as a service to achieve this.
 
 __We embrace change__
 
